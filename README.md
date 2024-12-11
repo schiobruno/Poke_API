@@ -22,10 +22,8 @@ Esta é uma aplicação de Pokédex que permite buscar e visualizar informaçõe
 
 2. Instale as dependências:
 
-npm install
-npm install express ejs axios
-npm install ejs
-npm install axios
+- npm install
+- npm install express ejs axios
 
 ## Uso
 
