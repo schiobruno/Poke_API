@@ -1,6 +1,6 @@
 # Pokédex - Aplicação Web com Node.js e EJS
 
-Esta é uma aplicação de Pokédex que permite buscar e visualizar informações detalhadas sobre Pokémons, incluindo habilidades, estatísticas e imagens. O projeto utiliza Node.js, Express, EJS e a API pública da PokéAPI.
+Esta é uma aplicação de Pokédex que permite buscar e visualizar informações detalhadas sobre Pokémons, habilidades e imagens. O projeto utiliza Node.js, Express, EJS e a API pública da PokéAPI.
 
 ## Funcionalidades
 
